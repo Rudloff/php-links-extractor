@@ -1,0 +1,3 @@
+[submodule "absoluteurl"]
+	path = absoluteurl
+	url = https://github.com/Rudloff/absoluteurl.git
